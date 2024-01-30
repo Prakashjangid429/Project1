@@ -1,0 +1,27 @@
+@media (min-width: 768px) { 
+    .banner{
+        padding-top: 4rem;
+        background-color: aqua;
+    }
+    .banner_img img{
+        height: 500px;
+        max-width: 450px;
+        padding-bottom: 2rem;
+        padding-right: 1rem;
+    }
+    #banner_text{
+        padding-top: 5rem;
+        min-width: 400px;
+        padding-left: 2rem;
+        padding-right: 2rem;
+       
+    }
+    
+    .card_3{
+        margin-right: 1rem;
+        margin-left: 1rem;
+    }
+    .banner_bottom{
+        margin-top: 2rem;
+    }
+}
